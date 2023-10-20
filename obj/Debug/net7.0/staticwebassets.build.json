@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "UVPmyAidYi8JJ/AgxoY79PgUcavFWVJ5WybjTHgfMj8=",
+  "Source": "CustomHTTPClient",
+  "BasePath": "_content/CustomHTTPClient",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
